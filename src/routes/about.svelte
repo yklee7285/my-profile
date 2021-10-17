@@ -14,4 +14,35 @@
           </li>
       </ul>
     </div>
-  </nav>  
+  </nav> 
+  <div class="mt-3 ml-5 mr-5">
+    <h1>About Me</h1>
+    <div class="card m-5" style="background-color:plum;">
+        <div class="card-body">
+          <h3>My Favourites</h3>
+          Color: Purple <br>
+          Food: Ramen <br>
+          Beverage: Green Tea <br>
+          Sport: Football <br>
+        </div>
+      </div>
+      <div class="card m-5" style="background-color:plum;">
+        <div class="card-body">
+          <h3>My Hobbies</h3>
+          Hobby: Listening To Music, Playing Games, Watching Anime <br>
+          Favourite Song: Crying For Rain <br>
+          Favourite Game: King Of Glory <br>
+          Favourite Anime: Attack On Titan <br>
+        </div>
+      </div>
+      <div class="card m-5" style="background-color:plum;">
+        <div class="card-body">
+          <h3>My Contact</h3>
+          Phone Number: 017-539-5966 <br>
+          Email: dariuslee7285@gmail.com <br>
+          Facebook: Darius Lee Yee Kang <br>
+          Instagram: @yklee7285
+        </div>
+      </div>
+</div>
+ 

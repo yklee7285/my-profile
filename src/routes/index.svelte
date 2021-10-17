@@ -17,10 +17,15 @@
   </nav>  
 <div class="mt-3 ml-5 mr-5">
     <h1>My Profile</h1>
-    <div class="card m-5 bg-info text-white">
+    <div class="card m-5" style="background-color:plum;">
         <div class="card-body">
           Name: Lee Yee Kang <br>Age: 16 <br>Gender: Male <br>School: Han Chiang High School<br>Birthday: 16 Feb 2021 <br>Country: Malaysia
         </div>
       </div>
-      
+     <h1>My Life Quote: </h1>
+     <div class="card m-5" style="background-color:plum;">
+      <div class="card-body">
+        <h5>If you don't fight, you can't win. That's why I'll keep moving forward.</h5>
+      </div>
+    </div>
 </div>
